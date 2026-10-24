@@ -1,6 +1,6 @@
 # Escape the Mansion
 
-A 2D isometric puzzle and mystery game made in Unity for the CSP650 Final Year Project (UiTM, Semester 6).
+A 2.5D puzzle and mystery game made in Unity for the CSP650 Final Year Project (UiTM, Semester 6).
 
 You play **Hazil**, an investigator sent to check on a mansion that is supposed to be abandoned. Inside, every floor is a puzzle room with keys, chests, levers, safes and doors, and the people you meet do not tell you the same story. Escape floor by floor to reach one of two endings.
 
